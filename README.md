@@ -1,1 +1,1 @@
-# Tean Git Lab
+# Team Git Lab
