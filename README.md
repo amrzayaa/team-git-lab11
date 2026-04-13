@@ -1,4 +1,5 @@
 # Team Git Lab
 
 ## Team Lead: Амарзаяа 
-## Developer: Гүлда
+## Developer: Гүлдан 
+Хөгжүүлж байна
